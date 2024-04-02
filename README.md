@@ -1,4 +1,4 @@
-# Images2WebP-Folder-Resize
+# Images2WebP-Folders-Resize
 
 This script automates the conversion of image files to the WEBP format, including an option to resize images so that the longest side does not exceed 2048 pixels. It retains the original directory structure in the output, creating a seamless mirror with the _converted suffix appended to the original directory name. Additionally, the script logs the conversion process, noting successfully converted images and flagging any errors encountered.
 
